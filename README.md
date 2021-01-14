@@ -1,4 +1,4 @@
-# NBA Player Bio and Season Statistics - ETL Project
+# NBA Player Bio and Season Statistics - ETL Challenge
 
 ## Project Proposal
 
